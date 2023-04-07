@@ -7,3 +7,6 @@
 ### But SmartGlobus is more than just a visual feast - it's also a powerful learning tool. Test your knowledge with our interactive quizzes, designed to challenge you on everything from geography and topography to wildlife and natural wonders. With each correct answer, you'll earn points, taking you ever deeper into the amazing world of our planet.
 
 ### And that's not all - SmartGlobus also includes basic information about the Earth itself, from its size and shape to its place in the solar system. With SmartGlobus, you'll gain a deeper understanding and appreciation of our incredible planet, and come away with a new sense of wonder at the world around us.
+
+
+# Screen Captures
